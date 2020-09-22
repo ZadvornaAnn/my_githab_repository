@@ -1,0 +1,56 @@
+body{
+    background-color: #B0DAF1;
+}
+.about{
+    font-family: Tahoma;
+    font-size: 18px;
+    width: 65%;
+    text-align: left;
+    background-color: #D4CDF4;
+    padding: 20px 5% 50px 5%;
+    margin: 75px 0px 75px 0px;
+    border-radius: 100px 0px 100px 100px;
+}
+.titlel {
+
+}
+.pict2{
+    width: 100%;
+    height: 400px;
+    background-image:  url(../image/02.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 100px 100px 100px 100px;
+}
+.link
+{
+    color: black;
+}
+.pict1{
+    width: 100%;
+    height: 400px;
+    background-image:  url(../image/01.jpg);
+    background-size: cover;
+    border-radius: 100px 100px 100px 100px;
+    background-position: center;
+}
+.visit{ font-family: Tahoma;
+    font-size: 18px;
+    width: 65%;
+    background-color: #D3FAC7;
+    text-align: left;
+    border-radius: 0px 100px 100px 100px;
+    padding: 20px 5% 50px 5%;
+
+}
+.nana{
+    color: white;
+    padding: 30px;
+    font-family: Tahoma;
+    font-size: 18px;
+}
+.text1 {
+    color: #212121;
+    font-family: Tahoma;
+    line-height: 1.5;
+}
